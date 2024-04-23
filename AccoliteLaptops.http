@@ -1,0 +1,6 @@
+@AccoliteLaptops_HostAddress = http://localhost:5087
+
+GET {{AccoliteLaptops_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
